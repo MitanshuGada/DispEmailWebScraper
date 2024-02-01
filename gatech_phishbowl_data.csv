@@ -1,0 +1,428 @@
+,date,description,image_url,label
+0,2016-03-28 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain. ,https://stats.security.gatech.edu/phishbowl/images/1491404449101572041958e506a1433f5.png,Phishing Message
+1,2016-04-06 ,"The message below is not a phishing message. 
+
+The vendor selected to assist the Institute with sexual violence training has sent this as a follow up to the initial training that everyone was required to complete.",https://stats.security.gatech.edu/phishbowl/images/149140506283641363658e509063b428.png,Safe Message
+2,2016-04-06 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/1491405613139830397958e50b2d7c2c6.png,Phishing Message
+3,2016-04-07 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/149140593024574316958e50c6ad40a3.png,Phishing Message
+4,2016-04-11 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/149140618951211438758e50d6d5643a.png,Phishing Message
+5,2016-04-17 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/1491406452142463761258e50e7449f53.png,Phishing Message
+6,2016-04-18 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/149140676998439958458e50fb1575b4.png,Phishing Message
+7,2016-04-25 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/149140778777013386358e513ab37b2e.png,Phishing Message
+8,2016-04-25 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/1491408038153553567758e514a630f74.png,Phishing Message
+9,2016-04-25 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/149140953899967200158e51a82dc7a2.png,Phishing Message
+10,2016-04-26 ,"This is a legitimate request for a survey. 
+
+You will likely see more legitimate links to ""https://gatech.qualtrics.com"" as Georgia Tech now has a contract with Qualtrics to allow campus units to perform internal surveys. 
+
+You can hover over the links in survey emails to verify that they actually go to gatech.qualtrics.com.",https://stats.security.gatech.edu/phishbowl/images/149140988852606397758e51be0f23db.png,Safe Message
+11,2016-04-28 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/149141002687065665458e51c6a53db8.png,Phishing Message
+12,2016-05-03 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/149141038657705957458e51dd278a94.png,Phishing Message
+13,2016-05-04 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/149141059192400144758e51e9fcb158.png,Phishing Message
+14,2016-05-09 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/1491411145109218046958e520c9cdd0f.png,Phishing Message
+15,2016-05-09 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/149141141239214810558e521d44fa3d.png,Phishing Message
+16,2016-05-11 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/149141173768336641758e523194b505.png,Phishing Message
+17,2016-05-12 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/1491412198103205626358e524e679aaa.png,Phishing Message
+18,2016-05-13 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/149141242320542805958e525c708a5b.png,Phishing Message
+19,2016-05-16 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/149141798065913478658e53b7cc9f67.png,Phishing Message
+20,2016-05-18 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/1491418278200906546858e53ca63f80b.png,Phishing Message
+21,2016-05-22 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/1491418424139845601858e53d38daa1f.png,Phishing Message
+22,2016-05-24 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/149141861695487931358e53df87263c.png,Phishing Message
+23,2016-05-25 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/1491418809126978158558e53eb93095b.png,Phishing Message
+24,2016-06-03 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/1491419097143156043658e53fd9b494c.png,Phishing Message
+25,2016-06-04 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/1491419392103716615658e5410057bcc.png,Phishing Message
+26,2016-06-08 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/149141958176691972058e541bdb4165.png,Phishing Message
+27,2016-06-29 ,"This is an invitation to join a Microsoft program that partners with the Georgia Tech College of Computing. 
+
+The link goes to ""onthehub.com"" which is an academic software retailer and on login you will be presented with a login page that is the actually GT login page at ""https://login.gatech.edu"". 
+
+This isn't a phishing message, but it's very hard to distinguish from one. 
+
+If you get this and want to use this program, make sure that the link really goes to ""onthehub.com"" and always make sure any login page for Georgia Tech is ""login.gatech.edu"" before logging in.",https://stats.security.gatech.edu/phishbowl/images/1491420184168000155258e54418401b4.png,Safe Message
+28,2016-07-12 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/1491420377176018853458e544d99788b.png,Phishing Message
+29,2016-07-20 ,"Cyber Security has become aware of a phishing campaign that is carrying a ransomware attachment.
+
+The message from address is forged and appears come from copier@*.gatech.edu (e.g. copier@oit.gatech.edu). 
+
+We've run a search on the Ironports and have identified this as a broad campaign that is targeting all/most of the campus subdomains. 
+
+The email in question contains a .docm attachment which is the payload that infects not only the machine, but any physically attached storage, as well as any network mounted storage. 
+
+Please be aware that this is NOT one of the Cyber Security phishing campaigns. This is a legitimate threat. Please alert your users that they should not open any emails or attachments appearing to be coming from a copier@*.gatech.edu address.",https://stats.security.gatech.edu/phishbowl/images/1491421017176575295958e547597f04c.png,Phishing Message
+30,2016-07-26 ,"This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.
+
+This is a variation on a phishing message seen on June 4th, 2016:
+https://stats.security.gatech.edu/phishbowl/?notice=26",https://stats.security.gatech.edu/phishbowl/images/149142158865800614958e54994993c4.png,Phishing Message
+31,2016-08-16 ,"This is a legitimate survey from Steve Swant. 
+
+Georgia Tech has a contract with Qualtrics to run surveys and legitimate surveys may come with links to ""https://gatech.qualtrics.com""",https://stats.security.gatech.edu/phishbowl/images/1491422178156094406958e54be26cc78.png,Safe Message
+32,2016-09-07 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/1491422821145958094658e54e656cd7c.png,Phishing Message
+33,2016-09-14 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/149142355156687814458e5513fb4145.png,Phishing Message
+34,2016-09-15 ,"This is a legitimate message about OrgSync. 
+
+The login link points to http://orgsync.com/login/georgiatech which is not a Georgia Tech URL. 
+If the link caused you to be suspcious, good job! 
+
+There is a Georgia Tech URL for this service at https://orgsync.gatech.edu. Also note, that the login link on the page (""Sign in with Campus ID"") redirects you to https://login.gatech.edu.",https://stats.security.gatech.edu/phishbowl/images/149148959972862629558e6533f9d9fb.png,Safe Message
+35,2016-10-12 ,"This message was sent to several areas on campus. The HTML contains a form that steals credentials. Importantly, the From address is forged to be the actual Dean of the targeted college.",https://stats.security.gatech.edu/phishbowl/images/149148984215153553258e654321e992.png,Phishing Message
+36,2016-12-22 ,Please do not open the attachment.,https://stats.security.gatech.edu/phishbowl/images/149149004395588581158e654fb98df8.png,Phishing Message
+37,2017-01-25 ,"Please do not reply, follow any links, or open the attachment(s).",https://stats.security.gatech.edu/phishbowl/images/149149105325534315558e658ed03062.png,Phishing Message
+38,2017-01-31 ,"This is an invitation to join a Microsoft program that partners with the Georgia Tech College of Computing. 
+
+The link goes to ""onthehub.com"" which is an academic software retailer and on login you will be presented with a login page that is the actually GT login page at ""https://login.gatech.edu"". 
+
+This isn't a phishing message, but it's very hard to distinguish from one. 
+
+If you get this and want to use this program, make sure that the link really goes to ""onthehub.com"" and always make sure any login page for Georgia Tech is ""login.gatech.edu"" before logging in.",https://stats.security.gatech.edu/phishbowl/images/149149145939063010958e65a8385059.png,Safe Message
+39,2017-01-31 ,"This is an invitation to join a Microsoft program that partners with the Georgia Tech College of Computing. 
+
+The link goes to ""onthehub.com"" which is an academic software retailer and on login you will be presented with a login page that is the actually GT login page at ""https://login.gatech.edu"". 
+
+This isn't a phishing message, but it's very hard to distinguish from one. 
+
+If you get this and want to use this program, make sure that the link really goes to ""onthehub.com"" and always make sure any login page for Georgia Tech is ""login.gatech.edu"" before logging in.",https://stats.security.gatech.edu/phishbowl/images/1491492051148444307758e65cd33a3b3.png,Safe Message
+40,2017-01-31 ,"As referenced by the Bursar's Office website, this is a legitimate site that allows students to track the status of their ""Tuition Payment Statement"" forms: 
+
+http://www.bursar.gatech.edu/content/1098-t-faq#Q03",https://stats.security.gatech.edu/phishbowl/images/1491492527111648223558e65eaf47d93.png,Safe Message
+41,2017-01-31 ,"Please do not click the ""Verify my account"" button contained in the link. 
+
+The email is not from Microsoft, and is an attempt to steal credentials.",https://stats.security.gatech.edu/phishbowl/images/1491492896187105221058e66020ee51d.png,Phishing Message
+42,2017-02-01 ,"Please DO NOT reply, open any attachments, or click on any links in the message. 
+
+If you have done so already, please let us know immediately. 
+
+If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/1491493090141933927058e660e29edc4.png,Phishing Message
+43,2017-02-01 ,"Please DO NOT reply, open any attachments, or click on any links in the message. 
+
+If you have done so already, please let us know immediately. 
+
+If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/149149337159801828058e661fbc10b7.png,Phishing Message
+44,2017-02-06 ,"Please DO NOT reply, open any attachments, or click on any links in the message. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/14917665874658499158ea8d3b27f31.png,Phishing Message
+45,2017-02-07 ,"Please DO NOT reply, open any attachments, or click on any links in the message. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/1491766902156560261658ea8e767f0d9.png,Phishing Message
+46,2017-02-08 ,"The attachment is a PDF containing malicious software which could harm your computer if opened. Please DO NOT reply or open the attachment. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/149176708637526103058ea8f2eae4ec.png,Phishing Message
+47,2017-02-08 ,"The email contains a link to a malicious URL, disguised as a link to a Word Document (though Word Documents from untrusted sources should also not be opened). Please DO NOT reply or click on the link. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/1491767247184397655958ea8fcf12b45.png,Phishing Message
+48,2017-02-09 ,"The email contains a link to a malicious URL, disguised as a link to a gatech.edu alert. Please DO NOT reply or click on the link. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/1491767502191279203958ea90cee9d4f.png,Phishing Message
+49,2017-02-15 ,"The attachment is a PDF containing malicious software which could harm your computer if opened. Please DO NOT reply or open the attachment. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/149176797054100819558ea92a2c827f.png,Phishing Message
+50,2017-02-20 ,"This email is not from PayPal, and the links included may lead to sites containing malware. In addition, the email address links point to a suspicious website not associated with PayPal or the purported merchant. Please DO NOT reply or click any links. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/149176838317815104758ea943f0f8d3.png,Phishing Message
+51,2017-02-20 ,"This email is not from Walgreens, and the links included may lead to sites containing malware. Please DO NOT reply or click any links. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/1491768657134463123958ea955138b22.png,Phishing Message
+52,2017-02-20 ,"This email is not from the FTC. Although the from address is @ftc.gov, phishers can easily spoof the from address. The link in email says ftc.gov, but actually leads to a malicious zip file on a "".com"" domain, NOT ""ftc.gov"". Please DO NOT reply or click any links. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/149176902268382452658ea96be0734b.png,Phishing Message
+53,2017-02-20 ,"This email is not from Georgia Tech, and is unrelated to any webmail service. Clicking the link leads to a malicious webpage. Please DO NOT reply or click any links. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/1491769474182200656758ea9882baea7.png,Phishing Message
+54,2017-03-01 ,"This email is not from Georgia Tech, and the link in the email leads to fake login page designed to trick the recipient into giving their username and password to the attacker.
+Please DO NOT reply or click any links. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/149176989224974191558ea9a24a711f.png,Phishing Message
+55,2017-03-06 ,"This email is not from Georgia Tech and is unrelated to any mail service. Clicking the link leads to a malicious webpage. Please DO NOT reply or click any links. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/14917700631386123458ea9acff39d4.png,Phishing Message
+56,2017-03-06 ,"This email is not from Georgia Tech and is unrelated to any mail service. Clicking the link leads to a malicious webpage. Please DO NOT reply or click any links. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/14917703672252987358ea9bff03cf8.png,Phishing Message
+57,2017-03-08 ,"This email is not from Georgia Tech, and the link in the email leads to fake login page designed to trick the recipient into giving their username and password to the attacker. 
+
+Please DO NOT reply or click any links. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/1491770648182528176558ea9d185fa3e.png,Phishing Message
+58,2017-03-13 ,"This email is not from PayPal, and the links included may lead to sites which attempt to trick you into entering your username and password, or install malware on your computer. 
+
+Please DO NOT reply or click any links. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/1491770861203092647058ea9ded42ced.png,Phishing Message
+59,2017-03-14 ,"This email is not from Georgia Tech, and is unrelated to any Outlook or email service. Clicking the link leads to a malicious webpage which may attempt to steal your credentials or install malware on your computer. 
+
+Please DO NOT reply or click any links. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/1491771687133664891858eaa127281ae.png,Phishing Message
+60,2017-03-16 ,This message includes a malicious PDF attachment.,https://stats.security.gatech.edu/phishbowl/images/1491772122171043813658eaa2daa0650.png,Phishing Message
+61,2017-03-18 ,"This email is not legitimate. Phishing messages like this often appeal to a sense of urgency to install malware on your computer. Please DO NOT reply or download and open the attached malicious archive. If you have done so already, please let us know. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/1491772294168486957658eaa386251f7.png,Phishing Message
+62,2017-03-20 ,Email contains a malicious PDF attachment.,https://stats.security.gatech.edu/phishbowl/images/1491772754109366412758eaa5524ef32.png,Phishing Message
+63,2017-03-27 ,We have confirmed with IRP that this email is legitimate.,https://stats.security.gatech.edu/phishbowl/images/149177297949247635758eaa633de66c.png,Safe Message
+64,2017-03-29 ,"This message contains a link that is hosted on a domain either belongs to, or is affiliated with, Georgia Tech.",https://stats.security.gatech.edu/phishbowl/images/149177368781943668958eaa8f769465.png,Safe Message
+65,2017-03-29 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/1491773866211333963058eaa9aa9521f.png,Phishing Message
+66,2017-03-30 ,This message contains a link that is hosted on a domain that does not belong to Georgia Tech. You can mouse-over the link to see the offending domain.,https://stats.security.gatech.edu/phishbowl/images/149177404724114909158eaaa5fbe500.png,Phishing Message
+67,2017-04-03 ,"This email is one of several we have seen, most of which seem to originate from compromised ""@t-online.de"" email addresses. The links direct to files stored on Google Drive which may harm your computer if downloaded. As always, be wary of links and attachments in emails, especially those from unrecognized senders. 
+
+Please DO NOT reply or click any links. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/1491774247120515067558eaab27e02ec.png,Phishing Message
+68,2017-04-03 ,"This email is not legitimate. Phishing messages like this often appeal to a sense of urgency to install malware on your computer. Please DO NOT reply or download and open the attached malicious document. If you have done so already, please let us know. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/149177442798606134658eaabdbc347a.png,Phishing Message
+69,2017-04-10 ,"This is a phishing email designed to exploit the recipient’s curiosity rather than fool the user into believing it is from a business, colleague, or other legitimate sender. This is also a good example to show that not all spam comes from sketchy domains. In this case, the email seems to have come from a compromised .edu email account, but attackers can also spoof the from address to impersonate almost anyone.
+
+Please DO NOT reply or open the attachment. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it. ",https://stats.security.gatech.edu/phishbowl/images/149183520856724818358eb99485faa0.png,Phishing Message
+70,2017-04-10 ,"This email is not from Georgia Tech, and is not really from a scanner or printer. The attachment  may contain malicious code which can harm your computer if you open it. 
+
+Please DO NOT reply or open the attachment. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it. ",https://stats.security.gatech.edu/phishbowl/images/1491835405126717881558eb9a0d83020.png,Phishing Message
+71,2017-04-17 ,"Although the link in this message does not belong to usg.edu, it directs to a service affiliated with USG.",https://stats.security.gatech.edu/phishbowl/images/1492435354165136967658f4c19a9e1a2.png,Safe Message
+72,2017-04-17 ,"This message includes a malicious attachment, and refers to a non-existent financial transaction. Please DO NOT open the attachment or reply to the email. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/1492437502116917537258f4c9fe53407.png,Phishing Message
+73,2017-04-26 ,"This message doesn't include links or attachments, and instead relies on recipients emailing the address in question. The attacker may then respond with an email containing requests for personal data, or even an email with malicious links or attachments. Please do not reply to the original sender, or send an email to the address in question, as doing so may mark you as a potential target for future phishing campaigns.",https://stats.security.gatech.edu/phishbowl/images/14932152506859420235900a812b17da.png,Phishing Message
+74,2017-05-03 ,"This is a better phishing message than what is normally seen. Everything looks right, such as the signature and last line about contacting someone. Always double-check the links as that is the best indicator of whether or not something is a phishing message. In this instance, the link text appears to be a legitimate gatech address, but if you check the link, you’ll notice that it is actually something quite different.",https://stats.security.gatech.edu/phishbowl/images/14938329091869062133590a14cdda21c.png,Phishing Message
+75,2017-05-03 ,This phishing message asks you to click on the link and grant access to your account. More information about this threat is available here.,https://stats.security.gatech.edu/phishbowl/images/14938466401608497484590a4a702834c.png,Phishing Message
+76,2017-05-12 ,This was a widely distributed phish.,https://stats.security.gatech.edu/phishbowl/images/149460045011470295185915cb021ae3f.png,Phishing Message
+77,2017-05-15 ,"This email is a legitimate message sent by Cyber Security on the behalf of The Institute. You may see multiple ""from"" addresses due to an error in the way that we sent the messages.",https://stats.security.gatech.edu/phishbowl/images/1494885330746536078591a23d292aff.png,Safe Message
+78,2017-05-16 ,"Approximately 4,500 users were erroneously notified last night and this morning (May 15/16) that their Office 365 Services were beginning to expire within 30 days. If your Office 365 services are legitimately expiring, you should receive a follow-up notice later this week with the correct expiration date.",https://stats.security.gatech.edu/phishbowl/images/14949393761335345325591af6f0840d6.png,Safe Message
+79,2017-05-18 ,"This message appears to be phishing and a possible attempt to deliver malware through a prompt to download a ""secured document"", which are typically malicious in nature when unsolicited. ",https://stats.security.gatech.edu/phishbowl/images/1495129098818001435591ddc0a95357.png,Phishing Message
+80,2017-05-22 ,This is a better phishing message than what is normally seen. The link redirects to a Microsoft Mail Login Screen that has been copied in design.,https://stats.security.gatech.edu/phishbowl/images/1495469777170525542859230ed1d9686.png,Phishing Message
+81,2017-06-02 ,This phish is widely distributed and contains malicious links. The link redirects to an etkinkimya.com which is not Delta's official website.,https://stats.security.gatech.edu/phishbowl/images/149642579518656452265931a543b8cc2.png,Phishing Message
+82,2017-06-05 ,"This is a very widely distributed phish. It links to a known phishing site, vivamexico2.com, not a Georgia Tech human resources link.",https://stats.security.gatech.edu/phishbowl/images/149669434317163594985935be4744d11.png,Phishing Message
+83,2017-06-15 ,This phish is targeted at Gatech Users and is widely distributed in the GT network. The malicious link that it provides is an abhaygreentech.com address which is a phishing link.,https://stats.security.gatech.edu/phishbowl/images/14975439996315706685942b53f15af9.png,Phishing Message
+84,2017-06-16 ,This is a widely distributed phish that disguises itself as a Microsoft notice. There are links to echoesevents.com.au which is a phishing site.,https://stats.security.gatech.edu/phishbowl/images/1497640284177741563959442d5c3b7ac.png,Phishing Message
+85,2017-06-23 ,This is a widely distributed phish that disguises itself as a bank notice. Do not respond to the email address provided,https://stats.security.gatech.edu/phishbowl/images/14982357491720776729594d436503518.png,Phishing Message
+86,2017-07-05 ,"Message Subject is ""Greetings! New Message from Hr Department.
+Link within message is currently inactive. ",https://stats.security.gatech.edu/phishbowl/images/1499261185267262634595ce901707fb.png,Phishing Message
+87,2017-08-30 ,"This email is not legitimate. Phishing emails like this often appeal to a sense of curiosity to get you to download and open malicious files. Please DO NOT reply or download and open the attached malicious document. If you have done so already, please let us know. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/1504122382187982000959a7160e86125.png,Phishing Message
+88,2017-09-08 ,"This is an invitation to join a Microsoft program that partners with the Georgia Tech College of Computing. 
+
+The link goes to ""onthehub.com"" which is an academic software retailer and on login you will be presented with a login page that is the actually GT login page at ""https://login.gatech.edu"". 
+
+This isn't a phishing message, but it's very hard to distinguish from one. 
+
+If you get this and want to use this program, make sure that the link really goes to ""onthehub.com"" and always make sure any login page for Georgia Tech is ""login.gatech.edu"" before logging in.",https://stats.security.gatech.edu/phishbowl/images/1504884022128322218759b2b5363ec79.png,Safe Message
+89,2017-09-08 ,"This is an invitation to join a Microsoft program that partners with the Georgia Tech College of Computing. 
+
+The link goes to ""onthehub.com"" which is an academic software retailer and on login you will be presented with a login page that is the actually GT login page at ""https://login.gatech.edu"". 
+
+This isn't a phishing message, but it's very hard to distinguish from one. 
+
+If you get this and want to use this program, make sure that the link really goes to ""onthehub.com"" and always make sure any login page for Georgia Tech is ""login.gatech.edu"" before logging in.",https://stats.security.gatech.edu/phishbowl/images/150488415650611281259b2b5bce9aef.png,Safe Message
+90,2017-09-25 ,"We have seen several messages like the one pictured below. The link will lead to form that attempts to trick you into entering your GT credentials. Always check the web address in your browser before entering your credentials, and check the address of links before clicking them by hovering over them with your mouse, or long-pressing on mobile.",https://stats.security.gatech.edu/phishbowl/images/150636264257477195859c945124ac67.png,Phishing Message
+91,2017-09-26 ,"Although claiming to be from iCloud, the ""Confirm Now"" button leads to http://vadalmafa.hu/.... (revealed by hovering over the link), a domain unrelated to Apple or iCloud.",https://stats.security.gatech.edu/phishbowl/images/1506433841162895477859ca5b31daf75.png,Phishing Message
+92,2017-10-17 ,"Although a premium email account sounds nice, this is nothing more than a phishing attempt. Clicking the link may take you to a site that will harm your computer or attempt to steal your credentials. Hovering over the ""confirm at once"" button reveals that it leads to a .ru domain name, not gatech.edu
+
+Please DO NOT reply or download and open the attached malicious document. If you have done so already, please let us know. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/1508250073157803795359e611d980e0c.png,Phishing Message
+93,2017-10-17 ,This is a legitimate message from Georgia Tech Human Resources regarding the upcoming benefits open enrollment period.,https://stats.security.gatech.edu/phishbowl/images/1508276573198588412159e6795d7d76a.png,Safe Message
+94,2017-10-17 ,This is a legitimate message from University System of Georgia (USG) regarding the benefits open enrollment period.,https://stats.security.gatech.edu/phishbowl/images/150827676846192575759e67a20b28cc.png,Safe Message
+95,2017-10-19 ,"This is a phishing message received by and reported by several users on campus. Although the from address is docusign.com, the email is unrelated to Docusign. The best way to know this is a phishing message is that it:
+1) Is vaguely worded, containing no information that might suggest it is from a colleague
+2) Was not expected, e.g. a colleague did not alert you that they were sending you a document to sign
+
+Please DO NOT reply or download and open the attached malicious document. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/1508423750175102465859e8b846b58ca.png,Phishing Message
+96,2017-10-19 ,"This message is not from Georgia Tech, and is unrelated to any Employee/Staff screening or requirements.
+
+Please DO NOT reply or download and open the attached malicious document. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/150842513988375135759e8bdb3f222f.png,Phishing Message
+97,2017-10-23 ,This message is the GT Cyber Security team's Fall Phishing Awareness exercise for Faculty and Staff.,https://stats.security.gatech.edu/phishbowl/images/15087622475324990759ede287e1421.png,Phishing Message
+98,2017-10-23 ,This message is the GT Cyber Security team's Fall Phishing Awareness exercise for students.,https://stats.security.gatech.edu/phishbowl/images/150876237618289352459ede308649f3.png,Phishing Message
+99,2017-10-23 ,"This message preys off a false sense of urgency to get you to reply to the attacker with your credentials. Do not do so! Georgia Tech will never ask you for your info, especially over email. 
+
+Please DO NOT reply to this email. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/150878869259229991859ee49d49664b.png,Phishing Message
+100,2017-10-31 ,"We recently received a report of spear-phishing from the treasurer of a student organization on campus. Spear-phishing is different from regular phishing because it is targeted at either a single or a small set of users. In this case, the attacker sent emails to the treasurer with the name of the president in the From: field and in the signature. These details were likely obtained from a public facing website with names of the organization's officers. 
+
+Although most phishing messages are low-effort and easy to spot, it is important to be wary of more advanced phishing messages that may include more personal details, or be more carefully crafted to match emails you expect to receive. ",https://stats.security.gatech.edu/phishbowl/images/150947550364419463459f8c4af28130.png,Phishing Message
+101,2017-11-09 ,This is a legitimate message regarding open enrollment.,https://stats.security.gatech.edu/phishbowl/images/15102439994464859345a047e9f192c8.png,Safe Message
+102,2017-11-20 ,The message below is a legitimate message from the Athletic Department.,https://stats.security.gatech.edu/phishbowl/images/151120036610642769765a13166ebed1c.png,Safe Message
+103,2017-11-27 ,"This message preys off a false sense of urgency to get you to enter your credentials. Do not do so! 
+
+Please DO NOT reply to this email or click on any links. If you have done so already, please let us know immediately. If you haven't, please delete the email or mark it as junk and ignore it.",https://stats.security.gatech.edu/phishbowl/images/151181933816402649935a1c884a1d441.png,Phishing Message
+104,2017-11-28 ,"Although this message is a very good imitation of the Georgia Tech VPN login page, it is not a Georgia Tech page. By hovering over the ""login"" button on the email, you can see that it leads to tinyurl.com/xxxxx, which indicates it is not from Georgia Tech.
+
+Do not click on the link or respond to the message. If you have done so already, please contact us immediately. ",https://stats.security.gatech.edu/phishbowl/images/151190119020318293035a1dc80600aef.png,Phishing Message
+105,2018-01-22 ,"This message contains a link to a password form asking for your Georgia Tech credentials. However, the form is not legitimate and will send your information to the attacker.
+
+Do not click on the link or respond to the message. If you have done so already, please contact us immediately. ",https://stats.security.gatech.edu/phishbowl/images/151664080920559570615a661a293f531.png,Phishing Message
+106,2018-01-31 ,This message is a legitimate message sent by the Georgia Tech Bursar containing instruction for accessing your 2017 tax year 1098-T form. You can find more information from the Bursar's office here: http://www.bursar.gatech.edu/content/1098-t-faq,https://stats.security.gatech.edu/phishbowl/images/151742312214108519255a720a12ef411.png,Safe Message
+107,2018-02-21 ,"This message is not a legitimate email from DocuSign. 
+
+Do not click on the link or respond to the message. If you have done so already, please contact us immediately. ",https://stats.security.gatech.edu/phishbowl/images/15192338437944983695a8dab3374636.png,Phishing Message
+108,2018-02-26 ,This message is a legitimate message sent by Campus Services via Qualtrics. Qualtrics is a hosted commercial survey solution that has been licensed by Georgia Tech for campus use.,https://stats.security.gatech.edu/phishbowl/images/15196615842238624805a943210529b2.png,Safe Message
+109,2018-02-27 ,"This message is not a legitimate email.
+
+Do not click on the link or respond to the message. If you have done so already, please contact us immediately. ",https://stats.security.gatech.edu/phishbowl/images/151973994116936010695a95642551db4.png,Phishing Message
+110,2018-02-28 ,The message below is a legitimate message regarding a recent accidental disclosure of FERPA protected information. ,https://stats.security.gatech.edu/phishbowl/images/15198313683772949455a96c94878341.png,Safe Message
+111,2018-03-08 ,"A phisher going by the name of ""Gregory Bloomfield"" has contacted several graduate students posing as someone looking for a tutor. While the exact process of the scam is not known, it may be a twist on the classic check overpayment scam (https://www.ftc.gov/news-events/press-releases/2004/12/ftc-warns-consumers-about-check-overpayment-scams). 
+
+Please forward any messages you receive to phishing@gatech.edu. If you have fallen victim to this scam, please contact the Georgia Tech Police Department. ",https://stats.security.gatech.edu/phishbowl/images/152052958236143045aa170aed98fa.png,Phishing Message
+112,2018-03-26 ,"This message is not a legitimate email and the attached file contains malware. 
+
+Do not open any attachments or respond to the message. If you have done so already, please contact us immediately. ",https://stats.security.gatech.edu/phishbowl/images/152207006220753528615ab8f22e34e71.png,Phishing Message
+113,2018-03-27 ,"Email states that a subscription has been started for YouTube Red and to cancel it, navigate to a phishing website. The site is convincing in appearance as an Apple login site to steal user credentials",https://stats.security.gatech.edu/phishbowl/images/15221782037023889705aba989b51275.png,Phishing Message
+114,2018-04-03 ,"Several users reported a phishing message from ""Charles K Huberman"" supposedly offering a job opportunity. However, there is no job opportunity, as the sender is attempting a classic fake check scam, asking you to deposit a check then wire funds to someone else. The check clears at first, but then bounces, leaving the victim on the hook for the funds that were wired to the attacker.
+
+Please do not respond to this email. If you have already done so, do not reply to any further messages and let us know immediately.",https://stats.security.gatech.edu/phishbowl/images/15227737853075593455ac3af1942581.png,Phishing Message
+115,2018-04-04 ,"This message is not a legitimate email from Wells Fargo. Although the From address says Wells Fargo Bank, this is easily spoofed by phishers. Hovering over the link reveals that it is not a Wells Fargo address. The link goes to Google.com, but redirects to a malicious page controlled by the phisher.
+
+Do not click on the link or respond to the message. If you have done so already, please contact us immediately. ",https://stats.security.gatech.edu/phishbowl/images/15228440056013683245ac4c1652a046.png,Phishing Message
+116,2018-04-11 ,This was sent as part of a phishing training exercise by Georgia Tech Cyber Security. See https://security.gatech.edu/SpringPhishingExercise for more details.,https://stats.security.gatech.edu/phishbowl/images/15234574556280787945ace1daf2d54c.png,Phishing Message
+117,2018-04-13 ,The message below is a legitimate survey from Georiga Tech leadership.,https://stats.security.gatech.edu/phishbowl/images/152364274413684513425ad0f17849e23.png,Safe Message
+118,2018-04-23 ,"The message below is not from Georgia Tech. Hovering over the link reveals a website that is not associated with Georgia Tech (does not end in gatech.edu). Please do not reply or click on the link. If you have already done so, please contact us immediately. ",https://stats.security.gatech.edu/phishbowl/images/152450094416518170625ade09d0d8049.png,Phishing Message
+119,2018-04-23 ,"Rather than leading to a document download link, the link in the message below leads to a phishing page that attempts to trick you into entering your password. Please DO NOT click on the link or reply to the message. If you have done so already, please let us know immediately.",https://stats.security.gatech.edu/phishbowl/images/152450466014117192185ade18541b1f5.png,Phishing Message
+120,2018-05-11 ,"The given links are to a yolasite.com subdomain, which is a web hosting site available to anyone. In addition, the subdomain itself ""outlookwebappbhffgfghd"" looks very suspicious by itself. In addition, there are grammatical errors here and there throughout the email.",https://stats.security.gatech.edu/phishbowl/images/152604596212867790995af59d0abf149.png,Phishing Message
+121,2018-05-11 ,"The email is addressed as being from the ""Office365 Team"", which doesn't match up to the email address. The link given does not match up to an expected O365 domain or the ""from"" email address. In addition, there is an error in the email body, which is ""You still have 24 hours until your %E-mail_address% account will be deleted"". A real email would definitely have the correct email there. ",https://stats.security.gatech.edu/phishbowl/images/152604644119746256865af59ee9acc57.png,Phishing Message
+122,2018-05-14 ,"This looks like your standard Honors Society invitation email, but it is not. All links resolve to a *.mjt.lu subdomain, which would take you to a page that looks to be filled with ads designed to get you to click on them. ",https://stats.security.gatech.edu/phishbowl/images/15263033933713891245af98aa16d0dc.png,Phishing Message
+123,2018-05-15 ,"This is not a Georgia Tech branded employee email. The signature is generic. The URL resolves to a *.caspio.com subdomain, not a *.gatech.edu subdomain. ",https://stats.security.gatech.edu/phishbowl/images/15263861709974148335afacdfa0cbf4.png,Phishing Message
+124,2018-05-21 ,This is not a typical professional correspondence from a  major news outlet.,https://stats.security.gatech.edu/phishbowl/images/152690838014369526255b02c5dcb9fd8.png,Phishing Message
+125,2018-05-21 ," Usually, these messages come in the standard form:
+
+hi
+(shortened link here, either goo.gl or bit.ly)
+
+The sender @gt4d.net is also not from Georgia Tech.",https://stats.security.gatech.edu/phishbowl/images/1526934809643731215b032d19cc85a.png,Phishing Message
+126,2018-05-25 ,"The email has no text, but only an .iqy attachment. The subject will be something of the type ""Unpaid invoice [ID:********]"". The 'from' address will appear to be from a user within your department, and the email addresses will be formatted as first.last@YOURDEPT.gatech.edu. We believe all of these email addresses are spoofed and not actually real. ",https://stats.security.gatech.edu/phishbowl/images/15272606475645503415b0825e7338ac.png,Phishing Message
+127,2018-05-25 ,"Message requires user to electronically sign a pdf via DocuSign. However, the link's website (www.fgck96elections.com) is just a front and not an actual website. ",https://stats.security.gatech.edu/phishbowl/images/15272695449374974675b0848a8f11c7.png,Phishing Message
+128,2018-05-29 ,"This message asks the user to enter their password in a box marked ""Reset Password"". The website in the link is a something.campuslogic.com/resetpassword (not a *.gatech.edu), and has a somewhat realistic looking login form that appears to be tailored to Georgia Tech.",https://stats.security.gatech.edu/phishbowl/images/15276264576375350915b0dbad91f94c.png,Phishing Message
+129,2018-06-01 ,"Rather than leading to a secure message, the link in the message below leads to a phishing page that attempts to trick you into entering credentials. Please hover over the link to confirm it conta
+
+Please DO NOT click on the link or reply to the message. If you have done so already, please let us know immediately.",https://stats.security.gatech.edu/phishbowl/images/1527862583188033965b1155377568f.png,Phishing Message
+130,2018-07-24 ,"This was a phishing message sent as part of our 2018 phishing training exercise.
+ 
+Thank you for being aware of the risk of opening unsolicited links or attachments and for bringing this to our attention. Please spread the word to your classmates and/or coworkers to be on the lookout for this type of message so that they can avoid it in the future.",https://stats.security.gatech.edu/phishbowl/images/153244573210045564785b574424d1bc0.png,Safe Message
+131,2018-07-26 ,"The phishing email has an attached pdf with a link which asks you to register by entering your email and password. 
+
+Below is the reproduced email message: 
+-------------------------------------------------------------------------------------------------
+
+Good morning,
+
+  You've been invited to an all expense paid three day summer Training workshop and seminar for Educators taking place in Atlanta, GA. Kindly go through the attached invitation for details and registration.
+
+Dr Paula Christen,
+Program Director.
+Tel:(713) 999-7829.",https://stats.security.gatech.edu/phishbowl/images/15326246377539764115b59fefda7799.png,Phishing Message
+132,2018-08-10 ,"The message poses as a newsletter from HR regarding payroll updates. The landing page requests the individual's email address, user name, and password. ",https://stats.security.gatech.edu/phishbowl/images/15356500525551387935b88290483eea.png,Phishing Message
+133,2018-09-06 ,This is a message from a sender posing as Chase Business banking.  The link directs the user to an amazon webservice unrelated to Chase bank.,https://stats.security.gatech.edu/phishbowl/images/1536257556299991275b916e14b2596.png,Phishing Message
+134,2018-09-07 ,"This is an invitation to join a Microsoft program that partners with the Georgia Tech College of Computing. The link goes to ""onthehub.com"" which is an academic software retailer and on login you will be presented with a login page that is the actually GT login page at ""https://login.gatech.edu"". 
+
+This is NOT a phishing message, but it's very hard to distinguish from one. If you get this and want to use this program, make sure that the link really goes to ""onthehub.com"" and always make sure any login page for Georgia Tech is ""login.gatech.edu"" before logging in.",https://stats.security.gatech.edu/phishbowl/images/153632875013880197795b92842e3f717.png,Safe Message
+135,2018-09-12 ,"This is a spam message.  The link directs to a graphic design website (hxxp://orrine[.]com/new/), but does NOT appear to be malicious/phishing.  Note obvious typos and poor design.  ",https://stats.security.gatech.edu/phishbowl/images/15367804722446014415b9968b8ee1f8.png,Phishing Message
+136,2018-09-27 ,"There have been a series of emails recently trying to extort payment from victims. The emails are targeting users based on breached passwords available on the internet. Next, they mention that they have graphic footage of the user that will be distributed to their contact list unless they receive a bitcoin payment.",https://stats.security.gatech.edu/phishbowl/images/15380672813289071535bad0b51e854c.png,Phishing Message
+137,2018-10-04 ,A fake linkedIn email attempts to steal user login credentials,https://stats.security.gatech.edu/phishbowl/images/153867668517271184735bb657cd3a0a9.png,Phishing Message
+138,2018-10-05 ,"This appears to be a message from Citizens Bank requesting the user to log in and update information on the account.  However, the link redirects to a non-citizens bank domain.  Also note the numerous spelling and grammatical errors.  
+
+URL: 
+hxxp://scrantonmfg[.]com/4ABP",https://stats.security.gatech.edu/phishbowl/images/153876309410648035325bb7a956f29b2.png,Phishing Message
+139,2018-10-08 ,"This email invites you to the UN ICSD summit in London, but it was actually already head in New York a few weeks ago (more information about the summit here: hxxps://www[.]un[.]org/sustainabledevelopment/summit/)
+Also, the UN doesn't have a UN office in the UK - so the UK phone number is strange.
+UNIC does exist (UN Information Centres), but there isn't one in the UK, and email addresses are normally @unic.org ",https://stats.security.gatech.edu/phishbowl/images/153901909718833332555bbb9159536e5.png,Phishing Message
+140,2018-10-15 ,"This is part of our semesterly phishing campaign. While it is not an actual phishing message, it does closely mimic many that we have seen before.
+
+It was sent from noreply@gatech.edu, though it is supposedly from the Bursar's Office. 
+
+In addition, the link goes to ""http://local.gatech-host.com/"". This domain name is ""gatech-host.com"", which is not a Georgia Tech owned domain and is not even an education domain (.com instead of .edu). 
+
+This message uses a common tactic, a call to action and sense of urgency. It lets you know that you have an important message and that you really need to log in as soon as you can so that you can view it. ",https://stats.security.gatech.edu/phishbowl/images/153960870912443406195bc4908568f5b.png,Phishing Message
+141,2018-10-15 ,"This is part of our semesterly phishing campaign. While it is not an actual phishing message, it does closely mimic many that we have seen before. 
+
+It was sent from noreply@gatech.edu, though it is supposedly from the ""Cloud Storage Team"". 
+
+There is a reference to ""GATechUniversity"" in the email address listed at the bottom.
+
+In addition, the link goes to ""http://local.gatech-host.com/"". This domain name is ""gatech-host.com"", which is not a Georgia Tech owned domain and is not even an education domain (.com instead of .edu). 
+
+This message uses a common tactic, a call to action and sense of urgency. It lets you know that you need to claim this within 24 and that you really need to log in as soon as you can so that you can do that. ",https://stats.security.gatech.edu/phishbowl/images/153960945815967303835bc493722fe08.png,Phishing Message
+142,2018-10-23 ,The message asks for several pieces of personal information,https://stats.security.gatech.edu/phishbowl/images/15403095862576562225bcf4252c48f7.png,Phishing Message
+143,2018-11-08 ,This message is attempting to solicit information from the recipient ,https://stats.security.gatech.edu/phishbowl/images/15417001745628455735be47a4e638ec.png,Phishing Message
+144,2018-11-08 ,This email attempts to get the user to click a link which leads to a dangerous site.,https://stats.security.gatech.edu/phishbowl/images/154170065617249626825be47c309f636.png,Phishing Message
+145,2018-11-16 ,"This message originated from a legitimate Northwestern University address, however all of the links redirect to hxxp://myworlder[.]com which is a known phishing domain and has been blocked via GT's firewall.  Please DO NOT click links or open any attachments from emails that you do not recognize or suspect may not be legitimate.",https://stats.security.gatech.edu/phishbowl/images/154239923712844527795bef250524619.png,Phishing Message
+146,2018-12-05 ,"There is an ongoing gift card scam where attackers use social engineering to trick office managers, executive assistants, and receptionists into sending gift cards to the attackers, claiming it’s for employee rewards, perhaps as a holiday surprise.",https://stats.security.gatech.edu/phishbowl/images/15440350718024815365c081affa14bc.png,Phishing Message
+147,2018-12-13 ,"The sender's email is impersonating a Georgia Tech employee's account, but is actually a an external email account. The user will likely say they are in a meeting and would like you to run out to purchase iTunes gift cards. 
+
+This email is sent from a non-Georgia Tech email, so please do not respond to it.",https://stats.security.gatech.edu/phishbowl/images/154471069110246905025c126a2309738.png,Phishing Message
+148,2018-12-17 ,The email impersonates an automated Apple email that requests an Apple ID to prevent their account deletion. The email also alludes to needing billing information later as well,https://stats.security.gatech.edu/phishbowl/images/154506451814670289515c17d0463270e.png,Phishing Message
+149,2018-12-17 ,Attempts to get the user to click on a link that supposedly goes to Apple. The link does not. It states that their apple ID is locked and they require information to clear it.,https://stats.security.gatech.edu/phishbowl/images/154506487820120179525c17d1ae9369f.png,Phishing Message
+150,2018-12-20 ,"As you can see this message already looks fishy to begin with. After analyzing the link, it can be noted that the link redirects to dietline4health.com",https://stats.security.gatech.edu/phishbowl/images/15453212658403857685c1bbb31c96d7.png,Phishing Message
+151,2019-01-08 ,Tries to impersonate payroll to get someone to visit a malicious site,https://stats.security.gatech.edu/phishbowl/images/15469682901010282215c34dce26f7a5.png,Phishing Message
+152,2019-01-15 ,Impersonates a notification that they have a message but to view it they must go to a 'secure' site,https://stats.security.gatech.edu/phishbowl/images/154756749112057212085c3e0183bb801.png,Phishing Message
+153,2019-01-15 ,A classic opener that eventual leads to gift card scams,https://stats.security.gatech.edu/phishbowl/images/154756812216199162085c3e03faf2bfe.png,Phishing Message
+154,2019-01-16 ,"Users are receiving an email with a link to access a Voice Message. 
+
+The voice message link prompts users to access a replica of the GT login page. If you hover and examine the URL, then you will realize that it is not an authentica GT login page. ",https://stats.security.gatech.edu/phishbowl/images/154764809920995489235c3f3c633fad8.png,Phishing Message
+155,2019-01-17 ,"There have been recent attempts to impersonate GT faculty and staff. In this case, the email was sent from an address attempting to mask itself using ""gatech.edu@gmail.com"". 
+
+Typically, these emails conversations are prompting the users to purchase iTunes gift cards.",https://stats.security.gatech.edu/phishbowl/images/154773308721088668425c40885f988ef.png,Phishing Message
+156,2019-01-22 ,"This is an invitation to join a Microsoft program that partners with the Georgia Tech College of Computing. 
+
+The link goes to ""onthehub.com"" which is an academic software retailer and on login you will be presented with a login page that is the actually GT login page at ""https://login.gatech.edu"". 
+
+This isn't a phishing message, but it's very hard to distinguish from one. 
+
+If you get this and want to use this program, make sure that the link really goes to ""onthehub.com"" and always make sure any login page for Georgia Tech is ""login.gatech.edu"" before logging in.",https://stats.security.gatech.edu/phishbowl/images/154819390910673458815c47907530646.png,Safe Message
+157,2019-01-22 ,"This is an invitation to join a Microsoft program that partners with the Georgia Tech College of Computing. 
+
+The link goes to ""onthehub.com"" which is an academic software retailer and on login you will be presented with a login page that is the actually GT login page at ""https://login.gatech.edu"". 
+
+This isn't a phishing message, but it's very hard to distinguish from one. 
+
+If you get this and want to use this program, make sure that the link really goes to ""onthehub.com"" and always make sure any login page for Georgia Tech is ""login.gatech.edu"" before logging in.",https://stats.security.gatech.edu/phishbowl/images/154819414817879329845c479164c1a91.png,Safe Message
+158,2019-01-27 ,The following message was send by an attacker posing as the dean of a college.,https://stats.security.gatech.edu/phishbowl/images/15486264724569825495c4e2a2895b24.png,Phishing Message
+159,2019-01-30 ,"The message is from someone impersonating David Collard, the Associate Dean of the College of Sciences asking if the receiver is available. This is consistent with similar scams that ask the receiver if they're available and then ask them to buy a bunch of gift cards.",https://stats.security.gatech.edu/phishbowl/images/15488710828706606685c51e5aa40b59.png,Phishing Message
+160,2019-02-04 ,This is a legitiment email. Georgia Tech partners with qualtrics to make surveys. This is a legitiment Georgia Tech survey link.,https://stats.security.gatech.edu/phishbowl/images/15492941329005502255c585a34147ea.png,Safe Message
+161,2019-02-11 ,"This is a phishing message impersonating the Chair of the School of Economics at Georgia Tech, Laura Taylor. This is similar to previous phishing attempts that if replied to, will ask the victim to buy gift cards.
+
+Also, Georgia Tech does not have a ""School of Chair""",https://stats.security.gatech.edu/phishbowl/images/15499006951490001845c619b97def1d.png,Phishing Message
+162,2019-02-13 ,"This is a phishing message impersonating the President of Georgia Tech, ""Bud"" Peterson. This is similar to previous phishing attempts that if replied to, will ask the victim to buy gift cards.",https://stats.security.gatech.edu/phishbowl/images/15500653251102215345c641ead63d02.png,Phishing Message
+163,2019-02-14 ,Scammer claims that a recipient visited adult sites and compromised his/her password. Sender wants bitcoin to be sent to his wallet otherwise he'll leak videos that were supposedly recorded through the computer's camera while recipient was visiting said adult sites.,https://stats.security.gatech.edu/phishbowl/images/155016398810833641515c65a0141c125.png,Phishing Message
+164,2019-02-25 ,"This is a phishing message impersonating the President of Georgia Tech, ""Bud"" Peterson. This is similar to previous phishing attempts that if replied to, will ask the victim to buy gift cards.",https://stats.security.gatech.edu/phishbowl/images/155110472321043951035c73fad3d0f9c.png,Phishing Message
+165,2019-02-25 ,"This is an email asking for names and email addresses for the head of school and email addresses. This seems like an attempt to get information to impersonate the head of school and chief of staff for future phishing emails, similar to the ones we have been seeing recently.",https://stats.security.gatech.edu/phishbowl/images/155110596219224224565c73ffaa98742.png,Phishing Message
+166,2019-03-06 ,"This is a phishing message requesting personal information from the user, in exchange for a high-paying job opportunity. Upon receiving a reply, the sender might also request financial information.",https://stats.security.gatech.edu/phishbowl/images/15519039308965365285c802cba1776e.png,Phishing Message
+167,2019-03-06 ,An unknown party is using SendInc to send a message that appears to be from a GT employee. ,https://stats.security.gatech.edu/phishbowl/images/155192121215262845535c80703c56597.png,Phishing Message
+168,2019-03-08 ,An external sender is sending emails to GT users about a potential job position. They are attempting to solicit personal email and mobile numbers to contact users. ,https://stats.security.gatech.edu/phishbowl/images/155205355816298756195c82753629c16.png,Phishing Message
+169,2019-03-08 ,External party impersonating UPS and ,https://stats.security.gatech.edu/phishbowl/images/15520548225201840575c827a26d3046.png,Phishing Message
+170,2019-03-08 ,An external sender is impersonating a GT faculty member. ,https://stats.security.gatech.edu/phishbowl/images/15520560627710926625c827efee3822.png,Phishing Message
+171,2019-03-08 ,Email sent from an external sender prompting for credentials. ,https://stats.security.gatech.edu/phishbowl/images/155206225712185824185c829731d9efd.png,Phishing Message
+172,2019-03-19 ,"In this phishing email, an external sender is impersonating a CIA officer, and asking for money in Bitcoin in exchange for the erasure of criminal records.",https://stats.security.gatech.edu/phishbowl/images/155300164510951120315c90ecada995c.png,Phishing Message
+173,2019-03-21 ,A spoofed email address impersonating a Microsoft representative attempting to gather O365 credentials. A hidden URL to a malicious site is below the legitimate looking admin.microsoft.com,https://stats.security.gatech.edu/phishbowl/images/155317151210501359125c938438a46c8.png,Phishing Message
+174,2019-03-22 ,"These email messages are not legitimate. Please do not open any attachments or click on any embedded link. They could be used to compromise your account credentials and allow intruders access to confidential information. If you receive a message having these characteristics, please delete the message.",https://stats.security.gatech.edu/phishbowl/images/155327713818242102775c9520d2189fc.png,Phishing Message
+175,2019-03-22 ,An adversary is attempting to manipulate users into providing account information to commit bank fraud,https://stats.security.gatech.edu/phishbowl/images/155328025916361663195c952d0311e38.png,Phishing Message
+176,2019-03-26 ,"The sender is impersonating an employer, and offering a lot of money for a simple job. The attached document also asks for an external email address to continue the communication.",https://stats.security.gatech.edu/phishbowl/images/15536070719727404305c9a299f3dc13.png,Phishing Message
+177,2019-04-10 ,Multiple email addresses are being used to attempt to convince users that they have a document regarding payroll to view. Clicking on the link downloads a malicious file.,https://stats.security.gatech.edu/phishbowl/images/155491969615012173255cae3110945ad.png,Phishing Message
+178,2019-04-10 ,Similar to the previous payroll phishing post. Multiple email addresses are being used to attempt to convince users that they have a document regarding a statement for March 2019 to view. Clicking on the link downloads a malicious file.,https://stats.security.gatech.edu/phishbowl/images/155491999514235531955cae323ba4dda.png,Phishing Message
+179,2019-04-15 ,This is a phishing message with a URL that downloads a .doc file which makes HTTP requests to a compromised website that is related to malware. Please DO NOT click the link and delete the message. The sender will try and impersonate Georgia Tech staff but the real email is not from an @gatech.edu address.,https://stats.security.gatech.edu/phishbowl/images/155534115515032452935cb49f63c21d1.png,Phishing Message
+180,2019-05-02 ,"This is a widespread phishing campaign spreading around campus. The deans of various colleges on campus have been impersonated. The email addresses are spoofed so it looks like it's from the actual sender. However, the reply-to will show another email.",https://stats.security.gatech.edu/phishbowl/images/15568080965208749015ccb01a0c3cf3.png,Phishing Message
+181,2019-05-10 ,This Invoice contains a link that attempts to download a malicious link. ,https://stats.security.gatech.edu/phishbowl/images/155751965216868226785cd5dd24057fd.png,Phishing Message
+182,2019-05-13 ,"A message was sent to a large number of users across campus. The message suggests that the body is ""clipped"" and attempts to re-direct users using a link. If accessed, the link attempts to gather usernames and passwords. ",https://stats.security.gatech.edu/phishbowl/images/155776459811763767335cd999f6273fd.png,Phishing Message
+183,2019-06-07 ,"The College of Computing sent out an email requesting donations.
+This is a legitimate email.",https://stats.security.gatech.edu/phishbowl/images/15599225122059278585cfa87504cd1d.png,Safe Message
+184,2019-07-11 ,"Personal Student Loan Debt from Georgia Tech Office of Scholarships & Financial Aid.
+This is a legitimate email.",https://stats.security.gatech.edu/phishbowl/images/156287707310270531165d279c9174803.png,Safe Message
+185,2019-07-17 ,"Voicemail from ""CID: 9188344430"" is a phishing campaign, designed to trick users with a look-a-like Microsoft outlook website.
+Do not input your personal info, if you have please report it immediately. ",https://stats.security.gatech.edu/phishbowl/images/156337351115192847075d2f2fc7a3295.png,Phishing Message
+186,2019-07-22 ,"Subject: School System Update Notification
+This is a phishing email that perfectly imitates the GATECH login page.
+Always check the URL before inputting credentials into websites.",https://stats.security.gatech.edu/phishbowl/images/156380988111151632935d35d8592e3bc.png,Phishing Message
+187,2019-07-22 ,"THIS is a Phishing Campaign, don't click on links or Open Attachments",https://stats.security.gatech.edu/phishbowl/images/156382861616741015565d362188618ad.png,Phishing Message
+188,2019-07-29 ,This is a legitimate message from MyWorkDay.com,https://stats.security.gatech.edu/phishbowl/images/156440992117791059395d3f00416dcef.jpg,Safe Message
+189,2019-07-31 ,"Subj: Available / Urgent Request
+
+The attacker will impersonate someone you know or a Department Head.
+Always check the email address you received the email from (should only be @GATECH.EDU, never GMAIL or MY.com etc..)
+
+The attacker will convey a sense of urgency or that they're in a meeting so they can't get to the phone for you to verify the legitimacy of this request.
+
+RESULT: Attacker will ALMOST ALWAYS ASK FOR GIFT-CARDS, because they can't be tracked or reimbursed.",https://stats.security.gatech.edu/phishbowl/images/156460616317454226995d41fed3528ec.jpg,Phishing Message
+190,2019-07-31 ,"Subj: Personal Assistant Position
+
+The attacker will claim to have found your info on a GT job website or CareerBuzz.
+
+Employers will never contact you from a non-legitimate email, ex. GMAIL / MY.com",https://stats.security.gatech.edu/phishbowl/images/156460652618286054975d42003eb99a1.png,Phishing Message
+191,2019-08-05 ,"Please do NOT reply.
+
+An external party is attempting to solicit user information for social engineering or phishing. ",https://stats.security.gatech.edu/phishbowl/images/156505450113398448355d48d6251f092.png,Phishing Message
+192,2019-08-10 ,The message is attempting to entice users to click the link and harvest user credentials. ,https://stats.security.gatech.edu/phishbowl/images/15654813831809573195d4f59a7db8fb.png,Phishing Message
+193,2019-08-19 ,This is a legitimate email used for enrollment into digital signage. ,https://stats.security.gatech.edu/phishbowl/images/15662341195677207665d5ad6074d5ab.png,Safe Message
+194,2019-08-20 ,"This does not appear to be phishing. Instead, it appears to have been accidentally sent to the it-students@lists.gatech.edu mailing list, which resulted in a large number of people receiving it. You can safely disregard.",https://stats.security.gatech.edu/phishbowl/images/156631086318643681535d5c01cf39d19.png,Safe Message
+195,2019-08-27 ,Daily digest email,https://stats.security.gatech.edu/phishbowl/images/156691259912421545685d6530572780d.png,Safe Message
+196,2019-08-30 ,"Fake Employee Appraisal email, do not click on link.
+NEVER put in your personal credentials into NON GT websites.",https://stats.security.gatech.edu/phishbowl/images/156718134915840751645d694a257143e.png,Phishing Message
+197,2019-09-03 ,Pretends to be a weapon attachment retailer. Attempts to get the user to click on links and provide personal information. ,https://stats.security.gatech.edu/phishbowl/images/156751422816048272145d6e5e7468e2e.png,Phishing Message
+198,2019-09-03 ,A real low effort phishing email where the contents are just a russian link,https://stats.security.gatech.edu/phishbowl/images/15675210565354022085d6e79203144a.png,Phishing Message
+199,2019-09-05 ,"This is a legitimate email sent from a 3rd party service that the College of Computing is partnered with to offer free software to applicable people. 
+
+
+
+Email headers:
+
+From: Georgia Institute of Technology - College of Computing 
+Reply-To: noreply@kivuto.com
+Subject: An account has been created for you",https://stats.security.gatech.edu/phishbowl/images/15676948663961103285d71201260560.png,Safe Message
+200,2019-09-09 ,"The sender is threatening that they have compromised your browser and possess videos of you in compromising situations. In addition, the sender is threatening that they have your password and all of your personal contacts. 
+
+The password(s) provided are likely published on the internet and the sender is using social engineering and fear to illicit money. 
+
+If you receive this email, please immediately change your account password and any other accounts that may use a variation of the password. ",https://stats.security.gatech.edu/phishbowl/images/15680368769539391875d76580c5f398.png,Phishing Message
+201,2019-09-17 ,"""Available?"" Scam
+Scammer typically asks, ""Available?"" while posing as an authority figure or someone you know. For example in this email the scammer poses as a Director of a department. They will ask you for money and give you the impression that you need to do it as soon as possible.",https://stats.security.gatech.edu/phishbowl/images/15687420994524249645d811ad38273e.png,Phishing Message
+202,2019-09-20 ,"Subj: Attention: Upgrade mail quota now  to avoid loss of data !
+GaTech will not email you asking to enter your password into a random non university website to ""get more storage"".
+NEVER enter passwords into websites you don't trust or look like they're not affiliated with GaTech.",https://stats.security.gatech.edu/phishbowl/images/15689850868051929785d84cffed60ba.png,Phishing Message
+203,2019-09-26 ,Message impersonates an employee from Landstar Container. The link directs a user to a oneDrive file with a link that takes the user away to a malicious site,https://stats.security.gatech.edu/phishbowl/images/15695051045959169815d8cbf508c405.png,Phishing Message
+204,2019-10-10 ,Please be mindful of all requests related to payroll updates or banking information. Follow all established processes to vet an individual's identity and the validity of the request. ,https://stats.security.gatech.edu/phishbowl/images/157072597415396875195d9f60565666c.png,Phishing Message
+205,2019-10-11 ,"People from outside GT cannot see directories, do not respond to unsolicited emails.",https://stats.security.gatech.edu/phishbowl/images/15707998075887596005da080bfc4299.png,Phishing Message
+206,2019-11-04 ,"This is a Phishing Email, do not click on links and enter personal / bank information into websites you do not recognize. ",https://stats.security.gatech.edu/phishbowl/images/15728866149182141675dc05856b45bf.png,Phishing Message
+207,2019-11-11 ,"This is a Phishing Message.
+No one will send you real job requests through a GMAIL account with no body or signature.",https://stats.security.gatech.edu/phishbowl/images/15734878329877978765dc984d88a2f0.png,Phishing Message
+208,2019-11-11 ,"This is a phishing message.
+Always make sure that the email comes from a domain you recognize or expect to receive a shipping update from.",https://stats.security.gatech.edu/phishbowl/images/15734927259697174935dc997f55c518.png,Phishing Message
+209,2019-11-18 ,"No one will email you from a GMAIL account asking for your personal information. 
+This is a phishing attack!",https://stats.security.gatech.edu/phishbowl/images/157408531917583308535dd2a2c7c5fdc.png,Phishing Message
+210,2019-11-25 ,"This is a SEXTORTION message.
+If you ever receive this know it is fake.
+Bad actors will pretend that they have hacked you and try to convince you to send them money.",https://stats.security.gatech.edu/phishbowl/images/15746883981647300625ddbd68ee05e1.png,Phishing Message
+211,2019-11-25 ,"This is a phishing message.
+The attacker will send password protected PDF, inside you will find a ransom demand.
+Do not send them money, they do not have any info or pictures on you.",https://stats.security.gatech.edu/phishbowl/images/157468915716666013445ddbd985ddcac.png,Phishing Message
+212,2020-03-16 ,"This email is being sent out by GTready, and is a legitimate email.",https://stats.security.gatech.edu/phishbowl/images/15843799127339271605e6fb8080e895.PNG,Safe Message
+213,2020-03-20 ,"This is a Phishing Email in which the sender will spoof their email address to match the recipients address in order to convince them that they have hacked their system and that they will release their personal files.
+Do not pay the randsome, these emails are fake.",https://stats.security.gatech.edu/phishbowl/images/15847331316406673425e751bcb0af32.PNG,Phishing Message
